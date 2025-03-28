@@ -17,7 +17,7 @@ The classification technique used here is called WaveMAP by [Lee et al., 2021](h
    1. 0_install_packages
    2. 1_wavemap_analysis
       - performs primary analysis on waveforms_mean.mat and outputs the cluster classifications and umap into umap_clustering_norm.csv
-   3. 2_wavemap_bootsrap
+   3. 2_wavemap_bootstrap
       - bootstraps the primary analysis to output confidence scores in condifence_scores.csv
 3. Analysis output will be saved into /analysis_output folder
 
